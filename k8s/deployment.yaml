@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: flask-app
-        image: alexander-dba/flask-hello-world:latest
+        image: alexanderidba/flask-hello-world:latest
         ports:
         - containerPort: 5000
